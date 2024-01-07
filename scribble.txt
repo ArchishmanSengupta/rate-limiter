@@ -1,0 +1,13 @@
+1. rest server with the API
+
+2. create a get API which will return dummy user response
+
+3. rate limit the GET API
+    - Fixed window algorithm
+     - in given time user can access the API only 10 times
+
+[timestamp : 11:00:00 - 11:00:5]
+
+
+
+
